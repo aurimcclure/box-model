@@ -2,17 +2,17 @@ div {
     border: dotted;
     padding: 20px;
     margin: 30px;
-    padding-top:25px;
-    padding-bottom:25px;
-    padding-right:50px;
-    padding-left:50px;
-
+    
 }
 
 h1 {
     border: dotted;
     padding: 20px;
     margin: 30px;
+    padding-top:25px;
+    padding-bottom:25px;
+    padding-right:50px;
+    padding-left:50px;
 
 }
 
