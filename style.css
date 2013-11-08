@@ -1,3 +1,13 @@
+body
+{
+background-color:red;
+}
+
+h1
+{
+text-align:center;
+}
+
 div {
     border: solid;
     padding: 20px;
